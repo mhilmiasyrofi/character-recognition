@@ -39,3 +39,6 @@ config.rst
 /.pydevproject
 
 package-lock.json
+
+# ignore data
+/data/fashion_bl
