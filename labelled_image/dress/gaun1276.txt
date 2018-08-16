@@ -1,0 +1,1 @@
+226, 25, 489, 60, Bezel	Unidirectional
