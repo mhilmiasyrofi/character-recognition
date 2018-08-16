@@ -1,1 +1,1 @@
-226, 25, 489, 60, Bezel	Unidirectional
+54,18,269,87,Dropship
