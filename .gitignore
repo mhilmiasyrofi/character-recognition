@@ -42,4 +42,5 @@ package-lock.json
 
 # ignore data
 /data/fashion_bl
+/data/backup_selected_image
 /labelled_image
