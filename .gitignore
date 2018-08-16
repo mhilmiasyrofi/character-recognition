@@ -42,3 +42,4 @@ package-lock.json
 
 # ignore data
 /data/fashion_bl
+/labelled_image
