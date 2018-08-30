@@ -44,3 +44,6 @@ package-lock.json
 /data/fashion_bl
 /data/backup_selected_image
 /labelled_image
+
+# ignore model
+/east/east_icdar2015_resnet_v1_50_rbox
